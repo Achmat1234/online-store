@@ -1,0 +1,347 @@
+/*-------------------------------------nav 1-----------------------------*/
+.BG-nav {
+    width: 100%;
+    height: 9vh;
+    background-color: #2d2827 !important;
+}
+.Free-shipping {
+    padding: 0px;
+    width: 100%;
+    height: 12px;
+    font-family: SourceSansPro;
+    font-size: 10px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.83;
+    letter-spacing: 0.90px;
+    text-align: center;
+    color: #b8b5b5;
+}
+
+/*--------------------------------------ending nav 1-------------------------------------*/
+.BG {
+    width: 100%;
+    height: 9vh;
+    background-color: #eeeeee
+ !important;
+}
+.Image-Holder {
+    width: 100%;
+    height: 445px;
+    background-color: #333333;
+}
+.BG2 {
+    width: 100%;
+    height: 548px;
+    background-color: #ffffff;
+}
+.Image-Holder2 {
+    width: 100%;
+    height: 490px;
+    background-color: #666666;
+}
+.Blog {
+    width: 32px;
+    height: 11px;
+    font-family: Dosis;
+}
+/*-----------------------------wording inside image--------------------------------*/
+.About-Us {
+    width: 100%;
+    height: 58px;
+    font-family: SourceSansPro;
+    font-size: 50px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 5px;
+    text-align: center;
+    color: #ffffff;
+}
+.Home-About-Us {
+    width: 100%;
+    height: 13px;
+    font-family: SourceSansPro;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.4;
+    letter-spacing: normal;
+    text-align: center;
+    color: #cccccc;
+}
+
+.Home-About-Us .text-style-1 {
+    color:#ffffff;
+}
+
+.Home-About-Us .text-style-2 {
+    color: #a8a8a8;
+}
+
+/*------------------------wording inside image ending---------------------------------*/
+
+/*image and text next to it*/
+.Line {
+    width: 5%;
+    margin-top: -30px;
+    height: 2px;
+    background-color: #a88d7b;
+}
+
+.padding-2 {
+    padding: 116px 10px 10px 10px;
+    text-align: center;
+}
+.row {
+    text-align: left;
+    align-items: left;
+    padding-top: 4rem;
+}
+.col {
+    text-align: left;
+}
+/*--------------------------start to text and image-------------------------*/
+.BG4 {
+    width: 100%;
+    height: 410px;
+    background-color: #ffffff;
+}
+.Who-We-Are {
+    width: 100%;
+    height: 115px;
+    margin-top: -17%;
+    font-family: SourceSansPro;
+    font-size: 36px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3.67;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--black-three);
+}
+.who-we-are {
+    width: 100%;
+    height: 89px;
+    font-family: SourceSansPro;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.67;
+    letter-spacing: normal;
+    text-align: left;
+    color:#666666;
+    }
+/*--------------------------ending to text and image-------------------------*/
+/*--------------------------start to image and text-------------------------*/
+    .BG5 {
+    width: 100%;
+    height: 504px;
+    background-color: #ffffff;
+}
+.What-We-Do {
+    width: 100%;
+    height: 24px;
+    font-family: SourceSansPro;
+    font-size: 36px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.67;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333333;
+}
+.What-We-Do {
+    width: 100%;
+    margin-top: -14%;
+    height: 119px;
+    font-family: SourceSansPro;
+    font-size: 36px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3.67;
+    letter-spacing: normal;
+    text-align: center;
+    color: #333333;
+}
+/*--------------------------ending to image and text-------------------------*/
+
+.Featured-Product {
+    width: 100%;
+    height: 90px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 36px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #333333;
+}
+.Image-Holde3 {
+    width: 100%;
+    height: 364px;
+    margin-top: 5%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../images/new.jpg);
+        }
+
+
+/*meet out team individual pictures*/
+.Bg {
+    width: 100%;
+    height: 671px;
+    background-color: #ffffff;
+}
+.Featured-Product {
+    width: 100%;
+    height: 90px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 36px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 3.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #333333;
+}
+.Image-Holder-small-1 {
+    width: 100%;
+    height: 360px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("../images/beanie.jpg"
+        )
+}
+.Image-Holder-small-2 {
+    width: 100%;
+    height: 360px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("../images/higheel.jpg"
+        )
+}
+.Image-Holder-small-3 {
+    width: 100%;
+    height: 360px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("../images/outfit.jpg"
+        )
+}
+.Image-Holder-small-4 {
+    width: 100%;
+    height: 360px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("../images/outfit.jpg"
+        )
+}
+/*meet out team individual pictures ending*/
+/*footer beginning*/
+.footer {
+    width: 100%;
+    height: 335px;
+    background-color: #2d2827;
+    color: white;
+}
+/*footer wording start*/
+.N-a-T-e-B {
+    width: 100%;
+    height: 21px;
+    font-family: Dosis;
+    font-size: 30px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1.5px;
+    text-align: left;
+    color: #e5e5e5;
+}
+.nate {
+    margin-top: 3rem;
+    width: 232px;
+    height: 18px;
+    font-family: SourceSansPro;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.6;
+    letter-spacing: normal;
+    text-align: left;
+    color: #999999;
+}
+
+.nate {
+    font-family: Linearicons-Free;
+}
+.nate-links {
+    width: 40px;
+    height: 69px;
+    font-family: SourceSansPro;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.58;
+    letter-spacing: normal;
+    text-align: left;
+    color: #e5e5e5;
+}
+
+.nate-2 {
+    width: 56px;
+    height: 11px;
+    font-family: SourceSansPro;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: normal;
+    text-align: left;
+    color: #999999;
+}
+.Women {
+    width: 47px;
+    height: 11px;
+    font-family: SourceSansPro;
+    font-size: 15px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #999999;
+}
+.Instagram {
+    width: 91px;
+    height: 60px;
+    font-family: SourceSansPro;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.50;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+}

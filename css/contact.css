@@ -1,0 +1,12 @@
+.Border {
+  width: 199;
+  height: 50px;
+  border: solid 1px #e6e6e6;
+  background-color: var(--white-five);
+}
+.Border1 {
+  width: 1170px;
+  height: 150px;
+  border: solid 1px #e6e6e6;
+  background-color: var(--white-five);
+}
