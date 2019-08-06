@@ -1,11 +1,11 @@
 /*-----------------------------wording inside image--------------------------------*/
 .Image-Holder {
     width: 100%;
-    height: 445px;
+    height: 450px;
     background-color: #333333;
 }
 p {
-    margin: -22px 9px 8px;
+    margin: -22px 4px -19px;
 }
 .About-Us {
     width: 100%;
@@ -144,7 +144,7 @@ p {
 /*nates styles*/
 .Iron-Chair {
     width: 100%;
-    height: 104px;
+    height: 60px;
     font-family: SourceSansPro;
     font-size: 25px;
     font-weight: 600;
@@ -191,13 +191,26 @@ p {
 }
 .thumbnail {
     display: block;
-    padding: 0px;
-    margin-bottom: 20px;
-    line-height: 11.428571;
+    padding: 14px;
+    margin-bottom: 0px;
+    line-height: 7.428571;
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 4px;
     -webkit-transition: border .2s ease-in-out;
     -o-transition: border .2s ease-in-out;
     transition: border .2s ease-in-out;
+}
+.Iron-Chair1 {
+    width: 100%;
+    height: 60px;
+    font-family: SourceSansPro;
+    font-size: 25px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.92;
+    letter-spacing: normal;
+    text-align: left;
+    color: #333333;
 }

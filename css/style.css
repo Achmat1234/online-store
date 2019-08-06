@@ -477,3 +477,36 @@
   color: #ffffff !important;
 }
 /*button-------------------------------------*/
+
+.text-uppercase-font-weight-bold {
+  width: 339px;
+  height: 53px;
+  font-family: SourceSansPro;
+  font-size: 25px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.92;
+  letter-spacing: normal;
+  text-align: left;
+  color: #333333;
+}
+.Praesent-eget-sapien-ipsum-Ut-egestas-gravida-orci-Aenean-pel {
+  width: 529px;
+  height: 239px;
+  font-family: SourceSansPro;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: left;
+  color: #666666;
+}
+
+.last {
+  width: 1900px;
+  height: 85px;
+  background-color: var(--white-two);
+}
