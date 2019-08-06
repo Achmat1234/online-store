@@ -193,9 +193,18 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url(../images/new.jpg);
+    background-image: url(../images/instore1.jpg);
         }
 
+        .Image-Holde3-1 {
+            width: 100%;
+            height: 364px;
+            margin-top: 5%;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-image: url(../images/instore4.jpg);
+        }
 
 /*meet out team individual pictures*/
 .Bg {
@@ -222,7 +231,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url("../images/beanie.jpg"
+    background-image: url("../images/instore2.jpg"
         )
 }
 .Image-Holder-small-2 {
@@ -231,7 +240,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url("../images/higheel.jpg"
+    background-image: url("../images/instore3.jpg"
         )
 }
 .Image-Holder-small-3 {
@@ -240,7 +249,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url("../images/outfit.jpg"
+    background-image: url("../images/blog.jpg"
         )
 }
 .Image-Holder-small-4 {
@@ -249,7 +258,7 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: url("../images/outfit.jpg"
+    background-image: url("../images/new-collection-female.jpg"
         )
 }
 /*meet out team individual pictures ending*/
