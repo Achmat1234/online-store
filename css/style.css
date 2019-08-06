@@ -510,3 +510,16 @@
   height: 85px;
   background-color: var(--white-two);
 }
+
+.html{
+  scroll-behavior: smooth;
+}
+.arrow a{
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+.arrow{
+  color: white;
+  text-decoration: none;
+}
