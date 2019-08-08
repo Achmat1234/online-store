@@ -10,34 +10,34 @@
 
 .About-Us {
     width: 100%;
-    height: 132px;
+    height: 191px;
     font-family: SourceSansPro;
-    font-size: 50px;
+    font-size: 74px;
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
     line-height: 4.2;
     letter-spacing: 5px;
     text-align: center;
-    color: #ffffff;
+    color: whitesmoke;
 }
 
 .Home-About-Us {
     width: 100%;
     height: 13px;
     font-family: SourceSansPro;
-    font-size: 15px;
+    font-size: 21px;
     font-weight: 600;
     font-style: normal;
     font-stretch: normal;
     line-height: 1.4;
     letter-spacing: normal;
     text-align: center;
-    color: #cccccc;
+    color: rgb(253, 253, 252);
 }
 
 .Home-About-Us .text-style-1 {
-    color: #ffffff;
+    color: #1a1717;
 }
 
 .Home-About-Us .text-style-2 {
@@ -126,10 +126,23 @@
     transform: translateX(-300px);
     opacity: 0;
 }
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
 
 .container {
     width: 1170px;
     padding-top: 5%;
+}
+.navbar-inverse .navbar-collapse,
+.navbar-inverse .navbar-form {
+    border-color: #101010;
+    position: fixed;
+    display: inline-flex;
+    text-align: center;
 }
 
 .navbar .navbar-brand img {
