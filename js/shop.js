@@ -90,3 +90,9 @@ $(function () {
         $cartItem.addClass('toggling');
     });
 });
+//================copyright================/
+var currentYear = new Date().getFullYear();
+$(function () {
+    $('#year').text(currentYear);
+});
+//================copyright================/
